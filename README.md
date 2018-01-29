@@ -1,7 +1,7 @@
 # ZeroFusion
 Real-time 3D Reconstruction with Senmatic Segmentation
 
-###Build steps:
+### Build steps:
 
 1. Build [libzmq](https://github.com/zeromq/libzmq) via cmake. 
 ```
